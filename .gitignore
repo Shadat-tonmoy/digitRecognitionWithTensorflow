@@ -1,0 +1,5 @@
+intro-to-tensorflow/*.zip
+venv/**
+datasets/**
+__pycache_/**
+.idea/**
